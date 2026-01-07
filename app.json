@@ -39,6 +39,14 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "jsm_react_native_food_app",
+          "organization": "gery-guedegbe"
+        }
       ]
     ],
     "experiments": {
